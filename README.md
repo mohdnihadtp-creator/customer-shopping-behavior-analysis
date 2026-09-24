@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes the shopping behavior of **3,900 retail customers** to understand purchasing patterns, customer segments, product performance, subscription behavior, discounts, shipping preferences, and revenue contribution.
+This project analyzes the shopping behavior of **3,900 customer purchase records** to understand purchasing patterns, customer segments, product performance, subscription behavior, discounts, shipping preferences, and revenue contribution.
 
 The project follows an end-to-end data analytics workflow using:
 
